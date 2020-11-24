@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMover", "FileMover\FileMover.csproj", "{BF5857E7-AC98-46DF-BC71-D48F4C251620}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLogic", "ServiceLogic\ServiceLogic.csproj", "{8CE9F9DE-DB82-405C-AE44-E051FD1032EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF5857E7-AC98-46DF-BC71-D48F4C251620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5857E7-AC98-46DF-BC71-D48F4C251620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5857E7-AC98-46DF-BC71-D48F4C251620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE9F9DE-DB82-405C-AE44-E051FD1032EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE9F9DE-DB82-405C-AE44-E051FD1032EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE9F9DE-DB82-405C-AE44-E051FD1032EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE9F9DE-DB82-405C-AE44-E051FD1032EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
